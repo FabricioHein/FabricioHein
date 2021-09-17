@@ -6,8 +6,7 @@
 
 - 🚀 
 - ⚡     
-- 💻 My stack: HTML, CSS, JavaScript and Ruby On Rails.   
-- 📘 Learning: ReactJS, Node.js, Ruby On Rails, Flutter and Dart.    
+- 💻 My stack: ReactJS, NextJS, React Native, HTML, CSS, JavaScript and Ruby On Rails. 
 - 💬 About me: I like coffee, cryptocurrencies and learning new things  
 - 📫 fabricio.hein@live.com
 
