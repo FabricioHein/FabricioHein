@@ -6,7 +6,7 @@
 
 - 🚀 
 - ⚡     
-- 💻 My stack: NodeJs, VueJS, ReactJS, NextJS, React Native, HTML, CSS, JavaScript and Ruby On Rails. 
+- 💻 My stack: NodeJs, NestJs, VueJs, ReactJs, NestJs and JavaScript. 
 - 💬 About me: I like coffee, cryptocurrencies and learning new things  
 - 📫 fabricio.hein@live.com
 
