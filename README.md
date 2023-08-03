@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 🤝 I’m looking for help with **NodeJs, NestJs, VueJs, ReactJs, NestJs and JavaScript**
+- 🤝 I’m looking for help with **NodeJs, NestJs, VueJs, ReactJs and JavaScript**
 
 - 📝 I regularly write articles on [Ebook: Mastering JavaScript and VueJs: Developing Modern Web Applications: (Ebook: Mastering JavaScript and VueJs: Developing Modern Web Applications: https://pay.kiwify.com.br/VhpVbN4)
 
