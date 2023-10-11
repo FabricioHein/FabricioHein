@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Exago**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **GO, JAVA**
 
 - 🤝 I’m looking for help with **NodeJs, NestJs, VueJs, ReactJs and JavaScript**
 
