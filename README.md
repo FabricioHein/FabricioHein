@@ -1,15 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabricio Hein</h1>
-<h3 align="center">A passionate frontend and backend developer from Brazil</h3>
-
-- 🔭 I’m currently working on **Exago**
-
-- 🌱 I’m currently learning **GO, JAVA**
-
-- 🤝 I’m looking for help with **NodeJs, NestJs, VueJs, ReactJs and JavaScript**
-
-- 📝 I regularly write articles on [Ebook: Mastering JavaScript and VueJs: Developing Modern Web Applications: (Ebook: Mastering JavaScript and VueJs: Developing Modern Web Applications: https://pay.kiwify.com.br/VhpVbN4)
-
-- 💬 Ask me about **NodeJs, NestJs, VueJs, ReactJs, NestJs and JavaScript**
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 - 📫 How to reach me **fabricio.hein@live.com**
 
